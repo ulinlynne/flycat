@@ -1,11 +1,9 @@
-# 飛貓專案 (Fly Cat Project)
+# 飛貓專案 (Fly Cat)
 
-[點我立刻去看飛貓](#fly-cat)
+[點我立刻跳到飛貓圖](#fly-cat-anchor)
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
-<div id="fly-cat"></div>
-
-![超酷的飛貓](fly-cat.jpg)
+<div id="fly-cat-anchor"></div>
