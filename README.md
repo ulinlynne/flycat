@@ -1,4 +1,4 @@
-# 飛貓專案 (Fly Cat)
+# 飛貓專案 (FlyCat)
 
 [點我立刻跳到飛貓圖](#cat-anchor)
 
@@ -8,4 +8,4 @@
 
 <div id="cat-anchor"></div>
 
-<img src="fly cat.jpg" alt="飛貓" width="500">
+<img src="flycat.png" alt="飛貓" width="500">
